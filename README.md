@@ -34,4 +34,4 @@ The main code that starts the player and opens the station selection menu is in 
 `edit-stations.py` can be opened via the option "⚙️ CONFIGURE STATIONS" in the station selection menu. It allows you to add new stations and delete existing ones. To add a new station you need a name (under which the station will be displayed in wofi) and a **streaming url** to the station. 
 
 
-`stations.json` stores station data. it is edited using `edit-stations.py` (there are already a few stations there by default, btw. I'll add more in the future).
+`stations.json` stores station data. it is edited using `edit-stations.py`.
